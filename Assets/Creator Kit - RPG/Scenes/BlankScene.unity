@@ -231,12 +231,12 @@ PrefabInstance:
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.86
+      value: 8.78
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.95
+      value: 5.97
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
@@ -23709,19 +23709,13 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 80081312}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &91350048 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5440847397157196389, guid: 2a657642475934620a07fd2e829b35d7,
-    type: 3}
-  m_PrefabInstance: {fileID: 924080423}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &91350049 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 320233495672156186, guid: 2a657642475934620a07fd2e829b35d7,
     type: 3}
   m_PrefabInstance: {fileID: 924080423}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 91350048}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 41613ed0111c54d85a17175edc8c4b77, type: 3}
@@ -26289,12 +26283,12 @@ PrefabInstance:
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 11.16
+      value: 11.34
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -7.62
+      value: 7.43
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
@@ -28082,18 +28076,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 33756308}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1513110127 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 320233495672156186, guid: 2a657642475934620a07fd2e829b35d7,
-    type: 3}
-  m_PrefabInstance: {fileID: 33756308}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1513110123}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 41613ed0111c54d85a17175edc8c4b77, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!4 &1548435376 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 700643566047416527, guid: d5abc895c284ea44aaf79bc56af78601,
@@ -28328,12 +28310,12 @@ PrefabInstance:
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.73
+      value: -7.65
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.68
+      value: 7.2
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
@@ -28464,18 +28446,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1804955531}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1640346170 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 320233495672156186, guid: 2a657642475934620a07fd2e829b35d7,
-    type: 3}
-  m_PrefabInstance: {fileID: 1804955531}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1640346166}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 41613ed0111c54d85a17175edc8c4b77, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!4 &1655883020 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 700643566047416527, guid: d5abc895c284ea44aaf79bc56af78601,
@@ -28919,12 +28889,12 @@ PrefabInstance:
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.96
+      value: -7.57
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.41
+      value: -4.77
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
@@ -29054,6 +29024,7 @@ GameObject:
   - component: {fileID: 1828443308}
   - component: {fileID: 1828443310}
   - component: {fileID: 1828443309}
+  - component: {fileID: 1828443311}
   m_Layer: 0
   m_Name: Quest2
   m_TagString: Untagged
@@ -29108,24 +29079,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: 
   desc: 
-  questInProgressConversation: {fileID: 0}
-  questCompletedConversation: {fileID: 0}
+  questInProgressConversation: {fileID: 1828443309}
+  questCompletedConversation: {fileID: 1828443311}
   spawnMode: 0
   enableOnQuestStart:
-  - {fileID: 1328789137759902223, guid: 0b28bc885bfce48d6bff8900da845cb0, type: 3}
-  spawnOnQuestStart:
   - {fileID: 1640346166}
   - {fileID: 1513110123}
   - {fileID: 1720877617}
+  spawnOnQuestStart: []
   requiredItems:
   - item: {fileID: 1720877622}
-    count: 1
-  - item: {fileID: 1513110127}
-    count: 1
-  - item: {fileID: 1640346170}
-    count: 1
-  spawnOnQuestComplete:
-  - {fileID: 91350048}
+    count: 3
+  spawnOnQuestComplete: []
   rewardItems:
   - {fileID: 91350049}
   destroySpawnsOnQuestComplete: 1
@@ -29133,6 +29098,25 @@ MonoBehaviour:
   outroCutscenePrefab: {fileID: 0}
   isStarted: 0
   isFinished: 0
+--- !u!114 &1828443311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1828443307}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acd99916876a6405980838d7635b65cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  items:
+  - id: 2.1.2
+    text: THANK YOU LITTLE BOY! THIS IS YOUR REWARD
+    image: {fileID: 0}
+    audio: {fileID: 0}
+    quest: {fileID: 0}
+    options: []
 --- !u!1001 &1880183935
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29967,7 +29951,7 @@ PrefabInstance:
     - target: {fileID: 8171158353334016009, guid: 84535a21e4ab6412690b5fa8acc3908e,
         type: 3}
       propertyPath: speed
-      value: 100
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 8171158353334016013, guid: 84535a21e4ab6412690b5fa8acc3908e,
         type: 3}
